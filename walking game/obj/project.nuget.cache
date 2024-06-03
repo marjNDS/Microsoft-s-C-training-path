@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "HpGHERA2+Yk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MarjoryNogueiradaSil\\Documents\\C#\\Microsoft-s-C-training-path\\game\\Starter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MarjoryNogueiradaSil\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\MarjoryNogueiradaSil\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\MarjoryNogueiradaSil\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\MarjoryNogueiradaSil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.31\\microsoft.netcore.app.host.win-x64.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
