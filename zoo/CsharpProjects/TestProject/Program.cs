@@ -14,7 +14,6 @@ printArr(pettingZoo);
 schoolVisit("School A");
 schoolVisit("School B", 3);
 schoolVisit("School C", 2);
-schoolVisit("School test", 5);
 
 
 void schoolVisit(string school, int groupSize = 6)

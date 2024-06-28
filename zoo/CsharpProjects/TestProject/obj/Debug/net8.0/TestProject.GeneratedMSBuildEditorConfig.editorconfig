@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TestProject
-build_property.ProjectDir = C:\Users\MarjoryNogueiradaSil\Documents\C#\Microsoft's C# trail\zoo\CsharpProjects\TestProject\
+build_property.ProjectDir = c:\Users\MarjoryNogueiradaSil\Documents\C#\Microsoft-s-C-training-path\zoo\CsharpProjects\TestProject\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

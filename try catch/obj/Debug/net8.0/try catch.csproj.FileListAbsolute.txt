@@ -1,0 +1,15 @@
+c:\Users\MarjoryNogueiradaSil\Documents\C#\Microsoft-s-C-training-path\try catch\bin\Debug\net8.0\try catch.exe
+c:\Users\MarjoryNogueiradaSil\Documents\C#\Microsoft-s-C-training-path\try catch\bin\Debug\net8.0\try catch.deps.json
+c:\Users\MarjoryNogueiradaSil\Documents\C#\Microsoft-s-C-training-path\try catch\bin\Debug\net8.0\try catch.runtimeconfig.json
+c:\Users\MarjoryNogueiradaSil\Documents\C#\Microsoft-s-C-training-path\try catch\bin\Debug\net8.0\try catch.dll
+c:\Users\MarjoryNogueiradaSil\Documents\C#\Microsoft-s-C-training-path\try catch\bin\Debug\net8.0\try catch.pdb
+c:\Users\MarjoryNogueiradaSil\Documents\C#\Microsoft-s-C-training-path\try catch\obj\Debug\net8.0\try catch.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\MarjoryNogueiradaSil\Documents\C#\Microsoft-s-C-training-path\try catch\obj\Debug\net8.0\try catch.AssemblyInfoInputs.cache
+c:\Users\MarjoryNogueiradaSil\Documents\C#\Microsoft-s-C-training-path\try catch\obj\Debug\net8.0\try catch.AssemblyInfo.cs
+c:\Users\MarjoryNogueiradaSil\Documents\C#\Microsoft-s-C-training-path\try catch\obj\Debug\net8.0\try catch.csproj.CoreCompileInputs.cache
+c:\Users\MarjoryNogueiradaSil\Documents\C#\Microsoft-s-C-training-path\try catch\obj\Debug\net8.0\try catch.sourcelink.json
+c:\Users\MarjoryNogueiradaSil\Documents\C#\Microsoft-s-C-training-path\try catch\obj\Debug\net8.0\try catch.dll
+c:\Users\MarjoryNogueiradaSil\Documents\C#\Microsoft-s-C-training-path\try catch\obj\Debug\net8.0\refint\try catch.dll
+c:\Users\MarjoryNogueiradaSil\Documents\C#\Microsoft-s-C-training-path\try catch\obj\Debug\net8.0\try catch.pdb
+c:\Users\MarjoryNogueiradaSil\Documents\C#\Microsoft-s-C-training-path\try catch\obj\Debug\net8.0\try catch.genruntimeconfig.cache
+c:\Users\MarjoryNogueiradaSil\Documents\C#\Microsoft-s-C-training-path\try catch\obj\Debug\net8.0\ref\try catch.dll

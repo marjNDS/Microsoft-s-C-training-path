@@ -12,3 +12,18 @@ C:\Users\MarjoryNogueiradaSil\Documents\C#\Microsoft's C# trail\zoo\CsharpProjec
 C:\Users\MarjoryNogueiradaSil\Documents\C#\Microsoft's C# trail\zoo\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.pdb
 C:\Users\MarjoryNogueiradaSil\Documents\C#\Microsoft's C# trail\zoo\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
 C:\Users\MarjoryNogueiradaSil\Documents\C#\Microsoft's C# trail\zoo\CsharpProjects\TestProject\obj\Debug\net8.0\ref\TestProject.dll
+c:\Users\MarjoryNogueiradaSil\Documents\C#\Microsoft-s-C-training-path\zoo\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.exe
+c:\Users\MarjoryNogueiradaSil\Documents\C#\Microsoft-s-C-training-path\zoo\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.deps.json
+c:\Users\MarjoryNogueiradaSil\Documents\C#\Microsoft-s-C-training-path\zoo\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.runtimeconfig.json
+c:\Users\MarjoryNogueiradaSil\Documents\C#\Microsoft-s-C-training-path\zoo\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.dll
+c:\Users\MarjoryNogueiradaSil\Documents\C#\Microsoft-s-C-training-path\zoo\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.pdb
+c:\Users\MarjoryNogueiradaSil\Documents\C#\Microsoft-s-C-training-path\zoo\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\MarjoryNogueiradaSil\Documents\C#\Microsoft-s-C-training-path\zoo\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+c:\Users\MarjoryNogueiradaSil\Documents\C#\Microsoft-s-C-training-path\zoo\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+c:\Users\MarjoryNogueiradaSil\Documents\C#\Microsoft-s-C-training-path\zoo\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+c:\Users\MarjoryNogueiradaSil\Documents\C#\Microsoft-s-C-training-path\zoo\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.sourcelink.json
+c:\Users\MarjoryNogueiradaSil\Documents\C#\Microsoft-s-C-training-path\zoo\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.dll
+c:\Users\MarjoryNogueiradaSil\Documents\C#\Microsoft-s-C-training-path\zoo\CsharpProjects\TestProject\obj\Debug\net8.0\refint\TestProject.dll
+c:\Users\MarjoryNogueiradaSil\Documents\C#\Microsoft-s-C-training-path\zoo\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.pdb
+c:\Users\MarjoryNogueiradaSil\Documents\C#\Microsoft-s-C-training-path\zoo\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+c:\Users\MarjoryNogueiradaSil\Documents\C#\Microsoft-s-C-training-path\zoo\CsharpProjects\TestProject\obj\Debug\net8.0\ref\TestProject.dll
